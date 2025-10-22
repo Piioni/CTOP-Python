@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="NUyJXi33WAJco4RYSbTk" name="Page-1">
-        <mxGraphModel dx="1348" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+        <mxGraphModel dx="1036" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -43,59 +43,67 @@
                 <mxCell id="11" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="577.5" y="198" width="40" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="17">
+                <mxCell id="22" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="21">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="21">
+                <mxCell id="37" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="36">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="A &amp;gt; B ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="180" y="390" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" style="edgeStyle=none;html=1;" edge="1" parent="1" source="17" target="18">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="220" y="620"/>
-                            <mxPoint x="400" y="620"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="17" value="Mostrar&lt;div&gt;A es mayor que B&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="160" y="520" width="120" height="60" as="geometry"/>
-                </mxCell>
                 <mxCell id="18" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="367.5" y="680" width="60" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="21" target="25">
+                <mxCell id="40" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="21" target="39">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="21" target="29">
+                <mxCell id="45" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="21" target="43">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="21" value="B &amp;gt; A ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="357.5" y="390" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="25" target="18">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="25" value="Mostrar&lt;div&gt;B es mayor que A&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="337.5" y="520" width="120" height="60" as="geometry"/>
-                </mxCell>
                 <mxCell id="28" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="280" y="398" width="40" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" style="edgeStyle=none;html=1;" edge="1" parent="1" source="29" target="18">
+                <mxCell id="31" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="457.5" y="400" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="185" y="478" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="395" y="478" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="278" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=none;html=1;" edge="1" parent="1" source="36" target="18">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="590" y="700"/>
+                            <mxPoint x="220" y="700"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="29" value="Mostrar A y B son iguales." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="530" y="400" width="120" height="60" as="geometry"/>
+                <mxCell id="36" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Mostrar&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;A es mayor que B&amp;nbsp;&lt;/div&gt;&#xa;&#xa;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="520" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="31" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="457.5" y="400" width="40" height="30" as="geometry"/>
+                <mxCell id="41" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="39" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Mostrar&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;B es mayor que A&lt;/div&gt;&#xa;&#xa;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+                    <mxGeometry x="337.5" y="520" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=none;html=1;" edge="1" parent="1" source="43" target="18">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="600" y="700"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="43" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Mostrar A y B son iguales.&lt;/span&gt;&#xa;&#xa;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+                    <mxGeometry x="537.5" y="390" width="120" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
