@@ -1,0 +1,25 @@
+INICIO
+    numero_valido <- FALSO
+    
+    MIENTRAS numero_valido = FALSO HACER
+        INTENTAR
+            ESCRIBIR "Ingrese un número entero positivo para la cuenta atrás: "
+            LEER numero
+            
+            SI numero >= 5 Y numero <= 50 ENTONCES
+                numero_valido <- VERDADERO
+            SINO
+                ESCRIBIR "El número debe estar entre 5 y 50. Intente de nuevo."
+            FIN_SI
+        CAPTURAR_ERROR
+            ESCRIBIR "Entrada inválida. Por favor, ingrese un número entero."
+        FIN_INTENTAR
+    FIN_MIENTRAS
+    
+    PARA i <- numero HASTA 1 CON_PASO -1 HACER
+        ESCRIBIR i
+        ESPERAR 0.5 segundos
+    FIN_PARA
+    
+FIN
+
