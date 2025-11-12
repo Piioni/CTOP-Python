@@ -1,3 +1,5 @@
+# Lista
+
 frutas = ["manzana", "banana", "naranja", "pera", "uva"]
 
 print("Primer fruta:", frutas[0])
